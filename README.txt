@@ -1,0 +1,1 @@
+Replace only app/streamlit_app.py and app/styles.css in AETHERRA. Keep data/, models/, recommendations.py and assets/ unchanged. Run from root: python -m streamlit run app/streamlit_app.py. Changes: chart legend below plot, more chart margins, remove duplicate sidebar CSS rules, responsive text wrapping. Tested syntax only; validate in browser.
