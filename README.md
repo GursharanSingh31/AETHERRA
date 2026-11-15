@@ -326,7 +326,9 @@ These are proposed future directions, not completed features.
 
 **Team members and contributions:**
 
-_Add confirmed team member names and responsibilities here._
+Gursharan Singh - Data Engineering & AI/ML Lead
+Maanya Jaiswal - UI/UX Designer 
+Oorjit Gupta - Research, Testing and Documentation
 
 ## 14. Acknowledgements and Data Attribution
 
